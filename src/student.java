@@ -29,7 +29,6 @@ public class student {
         //System.out.println(firstName + " " + lastName + " " + gradeYear + " " + studentID);
 
     }
-
     // generate an id
     private void setStudentID() {
         //Grade level+ ID
